@@ -2,6 +2,7 @@ Absensi daftar hadir:
 <<<<<<< HEAD
 1. Purwo
 2. Deni
+3. dafid eko
 =======
 1. Purwo Lapiza
 
