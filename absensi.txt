@@ -1,9 +1,4 @@
 Absensi daftar hadir:
-<<<<<<< HEAD
 1. Purwo
 2. Deni
 3. dafid eko
-=======
-1. Purwo Lapiza
-
->>>>>>> 02a32236d478950ea30945ee836ff9c6205b38bf
