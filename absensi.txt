@@ -9,4 +9,5 @@ Absensi daftar hadir:
 8. Daniela
 Location: Yogyakarta
 Sex: Female
+Status: Learning Git
 9. Dafid eko
