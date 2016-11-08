@@ -7,4 +7,4 @@ Absensi daftar hadir:
 6. Daniel
 7. Dewa Putu Wijaya Kusuma
 8. Daniela
-9. Dafid eko (Location add: Bandung; Gender: Male)
+9. Dafid eko (Location add: Bandung; Gender: Male; Status: status)
