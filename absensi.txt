@@ -2,6 +2,7 @@ Absensi daftar hadir:
 1. Purwo
 2. Deni
 Sex: male
+Location: bali
 3. Christian
 4. Damar
 5. Purwo Lapiza
