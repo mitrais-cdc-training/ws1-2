@@ -1,6 +1,7 @@
 Absensi daftar hadir:
 1. Purwo
 Sex: male
+Location: jogja
 
 2. Deni
 3. Christian
@@ -10,3 +11,4 @@ Sex: male
 7. Dewa Putu Wijaya Kusuma
 8. Daniela
 9. Dafid eko
+
