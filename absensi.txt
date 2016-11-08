@@ -2,6 +2,7 @@ Absensi daftar hadir:
 1. Purwo
 Sex: male
 Location: jogja
+status: married
 
 2. Deni
 3. Christian
