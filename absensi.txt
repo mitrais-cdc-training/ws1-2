@@ -5,6 +5,8 @@ Absensi daftar hadir:
 4. Damar
 5. Purwo Lapiza
 6. Daniel
-7. Dewa Putu Wijaya Kusuma	
+7. Dewa Putu Wijaya Kusuma
+	- adress: ABCD
+		
 8. Daniela
 9. Dafid eko
