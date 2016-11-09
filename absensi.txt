@@ -5,6 +5,13 @@ Absensi daftar hadir:
 4. Damar
 5. Purwo Lapiza
 6. Daniel
+<<<<<<< HEAD
+7. Dewa Putu Wijaya Kusuma	
+=======
 7. Dewa Putu Wijaya Kusuma
+	- adress: ABCD
+	- phone :02902
+		
+>>>>>>> 34aa782a13bd6ccb18cfcb2b2458b3a17010e3e0
 8. Daniela
 9. Dafid eko
